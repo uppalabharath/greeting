@@ -1,3 +1,3 @@
-module github.com/buppala/greeting
+module github.com/uppalabharath/greeting
 
 go 1.12
