@@ -6,5 +6,5 @@ import (
 
 /*Greet greets the person. */
 func Greet(name string) string {
-	return fmt.Sprintf("Hi, %s", name)
+	return fmt.Sprintf("Hi, %s!", name)
 }
